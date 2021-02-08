@@ -1,2 +1,2 @@
 # Exercicios
-Repositórios parapratica
+Repositórios para pratica de execicíos
