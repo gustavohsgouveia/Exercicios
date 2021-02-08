@@ -1,2 +1,2 @@
-# Exercicios
-Repositórios para pratica de execicíos
+# Repositório para desafios
+Exclusivo para as minhas praticas/desafios
